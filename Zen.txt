@@ -11,10 +11,5 @@
 10.
 11.
 12.
-<<<<<<< HEAD
-13.
-14.
-=======
 13.There should be one-- and preferably only one --obvious way to do it.
 14.
->>>>>>> ff2c6d1441e5b1761a1f54a43e56b065e97a49a4
