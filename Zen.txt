@@ -12,4 +12,5 @@
 11.Unless explicitly silenced.
 12.
 13.There should be one-- and preferably only one --obvious way to do it.
-14. Although that way may not be obvious at first unless you're Dutch
+14. Although that way may not be obvious at first unless you're Dutch.
+24.Ther is no 24th string ih "Zen of Python"!
