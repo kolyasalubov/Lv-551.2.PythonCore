@@ -12,10 +12,6 @@
 11.Unless explicitly silenced.
 12.
 13.There should be one-- and preferably only one --obvious way to do it.
-<<<<<<< HEAD
-14. Although that way may not be obvious at first unless you're Dutch
-=======
 14. Although that way may not be obvious at first unless you're Dutch.
-24.There is no 24th string in "Zen of Python"!
->>>>>>> 8a5ebc9c5af537cc49a20932ff50f93d52461670
+
 
