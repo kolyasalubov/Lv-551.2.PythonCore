@@ -1,5 +1,9 @@
 !!!Zen of Python!!!
+<<<<<<< HEAD
 1.Beautiful is better than ugly.
+=======
+1.
+>>>>>>> 180ddf58d8fd8355662c9434b965465358341552
 2.Explicit is better than implicit.
 3.Simple is better than complex.
 4.Complex is better than complicated.
